@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.idea
+pritpo_2_3.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
